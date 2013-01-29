@@ -9,7 +9,7 @@
 define('bsUsername', 'yourname@domain.com');
 define('bsPassword', 'foobar');
 
-require '/Users/akshay.a/IdeaProjects/BrowserStack-PHP/BrowserStack.php';
+require dirname(__FILE__) . '/../BrowserStack.php';
 
 class BrowserStackTest extends PHPUnit_Framework_TestCase {
 
