@@ -3,6 +3,8 @@
 
 A PHP Client for [BrowserStack API] (http://www.browserstack.com/automated-browser-testing-api)
 
+Compatible with API v1.0 & v2.0
+
 ##Usage
 =======
 
